@@ -48,7 +48,7 @@ This repository contains coding developed at [42 Yerevan's](https://42yerevan.am
 ## Project Stats
 
 |# |PROJECT NAME |SUBJECT |EXPERIENCE |GRADE
-:----------------:|:----:|:----------------:|:------:
+|:----:|:----------------:|:--------------:|:----------------:|:----------------:
 |01	|[Shell 00](Shell00)    | [`EN Subject`]()	 |100 XP |100% ✅
 |02	|[Shell 01](Shell01)	| [`EN Subject`]()	 |100 XP |100% ✅
 
