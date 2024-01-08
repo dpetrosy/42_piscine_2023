@@ -44,3 +44,21 @@ This repository contains coding developed at [42 Yerevan's](https://42yerevan.am
 		The school is open 24/7. Thus, the so-called "pisciners" are free to work whenever
 		they want, which demands excellent time management skills and resiliency for not
 		"drowning" amid the massive load of work demanded by the non-stop 26-day program.
+
+## Project Stats
+
+|# |PROJECT NAME |SUBJECT |EXPERIENCE |GRADE |
+:----------------:|:----:|:----------------:|:------:
+|01	|[Shell 00](Shell00)    | [`EN Subject`]()	 |100 XP |100% ✅ |
+|02	|[Shell 01](Shell01)	| [`EN Subject`]()	 |100 XP |100% ✅ |
+
+
+
+
+
+
+
+
+
+
+
