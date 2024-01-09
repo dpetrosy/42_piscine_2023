@@ -75,3 +75,6 @@ Final level: 11.7
 |22	|Exam 01                |  `No Subject`                    	         |225 XP     |100% ✅                          |
 |23	|Exam 02                |  `No Subject`                    	         |225 XP     |80% ✅                           |
 |24	|Final Exam             |  `No Subject`                    	         |375 XP     |90% ✅                           |
+
+> [!Note]
+> In my Piscine BSQ wasn't open, and I didn't have a chance to try to solve it.
