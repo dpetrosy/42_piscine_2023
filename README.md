@@ -77,4 +77,4 @@ This repository contains coding developed at [42 Yerevan's](https://42yerevan.am
 |24	|Final Exam             |  `No Subject`                    	         |375 XP     |90% ✅                           |
 
 > [!Note]
-> In my Piscine BSQ wasn't open, and I didn't have a chance to try to solve it.
+> In my Piscine BSQ wasn't open and I didn't have a chance to try to solve it.
