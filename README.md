@@ -4,7 +4,7 @@ This repository contains coding developed at [42 Yerevan's](https://42yerevan.am
 * My Intra login: dapetros
 * Final level: 11.7
 
-## About 42
+## 📜 About 42
 
 	42 is a global education initiative that proposes a new way of learning technology: no teachers,
 	no classrooms, students learning from their fellow students (peer to peer learning), with a
@@ -14,7 +14,7 @@ This repository contains coding developed at [42 Yerevan's](https://42yerevan.am
 	
 [![Photo of a 42 Yerevan lab](42_Yerevan.jpg)](https://42yerevan.am/)
 
-## Skills developed at C Piscine
+## 🛠️ Skills developed at C Piscine
 
 ### Hard-skills
 	# C Language
@@ -47,7 +47,7 @@ This repository contains coding developed at [42 Yerevan's](https://42yerevan.am
 		they want, which demands excellent time management skills and resiliency for not
 		"drowning" amid the massive load of work demanded by the non-stop 26-day program.
 
-## Project Stats
+## 📊 Project Stats
 
 |#      |PROJECT NAME           |SUBJECT                                         |EXPERIENCE |GRADE                            |
 |:-----:|:---------------------:|:----------------------------------------------:|:---------:|:-------------------------------:|
