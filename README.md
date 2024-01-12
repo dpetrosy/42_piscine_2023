@@ -2,6 +2,15 @@
 	C Piscine 42 Yerevan
 </h1>
 
+
+<h3 align="center">
+	<a href="#-about-42">About 42</a>
+	<span> · </span>
+	<a href="-skills-developed-at-C-piscine">Skills developed at C Piscine</a>
+	<span> · </span>
+	<a href="#-project-stats">Project Stats</a>
+</h3>
+
 This repository contains coding developed at [42 Yerevan's](https://42yerevan.am/) C bootcamp (also known as `Piscine`), from 09/oct/2023 to 02/nov/2023.
 * My Intra login: dapetros
 * Final level: 11.7
