@@ -1,4 +1,6 @@
-# C Piscine 42 Yerevan
+<h1 align="center">
+	C Piscine 42 Yerevan
+</h1>
 
 This repository contains coding developed at [42 Yerevan's](https://42yerevan.am/) C bootcamp (also known as `Piscine`), from 09/oct/2023 to 02/nov/2023.
 * My Intra login: dapetros
