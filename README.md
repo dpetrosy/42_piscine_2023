@@ -6,7 +6,7 @@
 <h3 align="center">
 	<a href="#-about-42">About 42</a>
 	<span> · </span>
-	<a href="#-skills-developed-at-C-piscine">Skills developed at C Piscine</a>
+	<a href="#-skills-developed-at-c-piscine">Skills developed at C Piscine</a>
 	<span> · </span>
 	<a href="#-project-stats">Project Stats</a>
 </h3>
