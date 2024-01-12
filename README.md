@@ -67,9 +67,9 @@ This repository contains coding developed at [42 Yerevan's](https://42yerevan.am
 |14	|[C 11](C11)	        | [`EN Subject`](C11/C11_subject.pdf)	         |100 XP     |100% ✅                          |
 |15	|[C 12](C12)	        | [`EN Subject`](C12/C12_subject.pdf)	         |100 XP     |(Partially Done)❔               |
 |16	|[C 13](C13)	        | [`EN Subject`](C13/C13_subject.pdf)	         |100 XP     |90% ✅                           |
-|17	|[Rush 00](Rush00)	| [`EN Subject`](Rush00/Rush00_subject.pdf)	 |150 XP     |120% ✅                          |
-|18	|[Rush 01](Rush01)	| [`EN Subject`](Rush01/Rush01_subject.pdf)	 |150 XP     |111% ✅                          |
-|19	|[Rush 02](Rush02)	| [`EN Subject`](Rush02/Rush02_subject.pdf)	 |150 XP     |84% ✅                           |
+|17	|[Rush 00](Rush00/ex00)	| [`EN Subject`](Rush00/Rush00_subject.pdf)	 |150 XP     |120% ✅                          |
+|18	|[Rush 01](Rush01/ex00)	| [`EN Subject`](Rush01/Rush01_subject.pdf)	 |150 XP     |111% ✅                          |
+|19	|[Rush 02](Rush02/ex00)	| [`EN Subject`](Rush02/Rush02_subject.pdf)	 |150 XP     |84% ✅                           |
 |20	|BSQ	                | [`EN Subject`](BSQ/BSQ_subject.pdf)	         |225 XP     |(Not Started) ❌                 |
 |21	|Exam 00                |  `No Subject`                    	         |225 XP     |100% ✅                          |
 |22	|Exam 01                |  `No Subject`                    	         |225 XP     |100% ✅                          |
