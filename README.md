@@ -4,11 +4,11 @@
 
 
 <h3 align="center">
-	<a href="#-about-42">About 42</a>
+	<a href="#-about-42">📜 About 42</a>
 	<span> · </span>
-	<a href="#%EF%B8%8F-skills-developed-at-c-piscine">Skills developed at C Piscine</a>
+	<a href="#%EF%B8%8F-skills-developed-at-c-piscine">🛠️ Skills developed at C Piscine</a>
 	<span> · </span>
-	<a href="#-project-stats">Project Stats</a>
+	<a href="#-project-stats">📊 Project Stats</a>
 </h3>
 
 This repository contains coding developed at [42 Yerevan's](https://42yerevan.am/) C bootcamp (also known as `Piscine`), from 09/oct/2023 to 02/nov/2023.
